@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Colorview</string>
+    <string name="Box_One">Box One</string>
+    <string name="Box_Two">Box Two</string>
+    <string name="Box_Three">Box Three</string>
+    <string name="Box_Four">Box four</string>
+    <string name="Box_Five">Box Five</string>
+
+    <string name="button_green">Green</string>
+    <string name="button_red">Red</string>
+    <string name="button_yellow">Yellow</string>
+</resources>
